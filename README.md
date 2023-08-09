@@ -29,7 +29,6 @@ For this project, we'll utilize the Python programming language along with libra
 
 By conducting this exploratory data analysis, we aim to provide a comprehensive understanding of Disney+ content, its growth trajectory, and the preferences of its audience, contributing valuable insights to the dynamic world of streaming entertainment.
 
-Feel free to modify and expand upon this introduction to align with the specific focus and goals of your Disney+ data analysis project.
 
 
 
