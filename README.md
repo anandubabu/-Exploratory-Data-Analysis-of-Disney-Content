@@ -1,4 +1,6 @@
 # -Exploratory-Data-Analysis-of-Disney-Content
+![image](https://github.com/anandubabu/-Exploratory-Data-Analysis-of-Disney-Content/assets/136991280/81bc3f50-a216-48f5-abf8-6705bb5ad8a8)
+
 Introduction:
 
 The world of entertainment has been revolutionized with the advent of streaming platforms, and Disney+ has emerged as a key player in this landscape. With its extensive collection of movies and TV shows, including classic Disney animations, Marvel superhero stories, Star Wars sagas, and much more, Disney+ has captured the hearts of audiences around the globe. In this data analysis project, we delve into the treasure trove of Disney+ content to gain insights into its offerings, trends, and audience preferences.
