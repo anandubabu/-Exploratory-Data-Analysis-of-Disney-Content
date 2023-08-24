@@ -37,7 +37,6 @@ By conducting this exploratory data analysis, we aim to provide a comprehensive 
 
 
 
-![title](https://github.com/anandubabu/-Exploratory-Data-Analysis-of-Disney-Content/assets/136991280/3770c0a5-56e2-4914-97d3-413f88664c80)
 
 
 
